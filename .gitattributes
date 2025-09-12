@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
+# Enforce cross-platform line ending normalization
 * text=auto
