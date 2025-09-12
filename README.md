@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="media/98d62c5a-f856-4b1f-ae9f-d92fc780aa8a_MASTER.png" alt="Roll-a-Ball Banner"/>
+   <img src="media/98d62c5a-f856-4b1f-ae9f-d92fc780aa8a_MASTER.png" alt="Roll-a-Ball Banner" style="width:100%;max-width:800px;object-fit:cover;aspect-ratio:4/1;"/>
 </p>
 
 
