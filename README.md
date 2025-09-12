@@ -2,71 +2,70 @@
    <img src="media/98d62c5a-f856-4b1f-ae9f-d92fc780aa8a_MASTER.png" alt="Roll-a-Ball Banner" style="width:100%;max-width:800px;object-fit:cover;aspect-ratio:4/1;"/>
 </p>
 
-
 # Roll-a-Ball
 
-Un projet Unity basé sur le tutoriel officiel **Roll-a-Ball**.  
-L’objectif est de contrôler une sphère pour collecter des objets sur une scène en utilisant les contrôles clavier.
+A Unity project based on the official **Roll-a-Ball** tutorial.  
+The goal is to control a sphere to collect objects in a scene using keyboard controls.
 
 ---
 
-## 🎮 Fonctionnalités
-- Contrôle du joueur avec les touches directionnelles ou ZQSD.
-- Caméra suivant automatiquement le joueur.
-- Collecte d’objets (Pickups).
-- Affichage du score en temps réel.
-- Condition de victoire lorsque tous les objets sont ramassés.
+## 🎮 Features
+- Player control with arrow keys or ZQSD.
+- Camera automatically follows the player.
+- Collectible objects (Pickups).
+- Real-time score display.
+- Win condition when all objects are collected.
 
 ---
 
-## 🛠️ Prérequis
+## 🛠️ Prerequisites
 - [Unity Hub](https://unity.com/download)
-- Unity **2021.3 LTS** ou version ultérieure recommandée
-- .NET SDK (inclus avec Unity)
+- Unity **2021.3 LTS** or later recommended
+- .NET SDK (included with Unity)
 
 ---
 
-## 🚀 Installation et exécution
-1. Cloner le dépôt :
+## 🚀 Installation & Running
+1. Clone the repository:
    ```bash
    git clone https://github.com/utilisateur/roll-a-ball.git
    ```
-2. Ouvrir Unity Hub et ajouter le dossier du projet.
-3. Ouvrir la scène principale :
+2. Open Unity Hub and add the project folder.
+3. Open the main scene:
    - `Assets/Scenes/MiniGame.unity`
-4. Lancer le jeu dans l’éditeur avec le bouton **Play**.
+4. Run the game in the editor with the **Play** button.
 
 ---
 
-## 🎯 Contrôles
-- **Flèches directionnelles** ou **ZQSD** : déplacer la sphère
-- **Échap** : quitter l’application (build standalone)
+## 🎯 Controls
+- **Arrow keys** or **ZQSD**: move the sphere
+- **Escape**: quit the application (standalone build)
 
 ---
 
-## 📂 Structure du projet
+## 📂 Project Structure
 ```
 Roll-a-Ball/
 ├── Assets/
-│   ├── Input/          # Configuration des entrées
-│   ├── Scenes/         # Scène principale
-│   ├── Scripts/        # Scripts C#
-│   ├── Prefabs/        # Objets réutilisables
-│   └── Materials/      # Textures et couleurs
-├── ProjectSettings/    # Configuration Unity
+│   ├── Input/          # Input configuration
+│   ├── Scenes/         # Main scene
+│   ├── Scripts/        # C# scripts
+│   ├── Prefabs/        # Reusable objects
+│   └── Materials/      # Textures and colors
+├── ProjectSettings/    # Unity configuration
 └── README.md
 ```
 
 ---
 
-## 📌 Améliorations possibles
-- Ajout de niveaux multiples.
-- Power-ups (bonus de vitesse, ralentissement).
-- Interface utilisateur améliorée.
-- Gestion des scores élevés (Highscore).
+## 📌 Possible Improvements
+- Add multiple levels.
+- Power-ups (speed boost, slow down).
+- Improved user interface.
+- Highscore management.
 
 ---
 
-## 📖 Références
-- Tutoriel Unity officiel : [Roll-a-Ball](https://learn.unity.com/project/roll-a-ball)
-- Documentation Unity : [https://docs.unity3d.com](https://docs.unity3d.com)
+## 📖 References
+- Official Unity tutorial: [Roll-a-Ball](https://learn.unity.com/project/roll-a-ball)
+- Unity Documentation: [https://docs.unity3d.com](https://docs.unity3d.com)
